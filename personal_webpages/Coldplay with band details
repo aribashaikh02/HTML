@@ -1,0 +1,33 @@
+<h1>Coldplay</h1>
+<body>
+  <img src="https://share.google/yfMHOJn1fXwT70iY8"/>
+  <p>
+    Coldplay is a British rock band formed in London in 1997. They rose to fame with
+    their debut album Parachutes and the single Yellow, and have since blended
+    alternative rock, pop, and experimental sounds across globally successful albums.
+  </p>
+
+  <p>
+  official website:
+  <a href="https://www.coldplay.com">coldplay.com</a>
+  </p>
+
+  <h2>Members:</h2>
+  <ul>
+    <li>Chris Martin — vocals, piano</li>
+    <li>Jonny Buckland — guitar</li>
+    <li>Guy Berryman — bass</li>
+    <li>Will Champion — drums</li>
+    <li>Phil Harvey — creative director/manager</li>
+  </ul>
+
+  <h2>Top 5 favorite songs:</h2>
+  <ol>
+    <li>Yellow</li>
+    <li>Viva La Vida</li>
+    <li>Fix You</li>
+    <li>The Scientist</li>
+    <li>Paradise</li>
+  </ol>
+</body>
+
