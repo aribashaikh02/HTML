@@ -1,0 +1,59 @@
+## What this is
+
+A collection of HTML learning projects and examples covering foundational web concepts. The repository includes structured templates, personal webpages (chef recipes, band information, pet details), business content pages, and interactive workshop exercises—organized by complexity and use case for beginners learning HTML.
+
+### Stack
+- **Language(s):** HTML (100%)
+- **Framework / runtime:** Plain HTML (no dependencies)
+- **Notable libraries:** None—vanilla HTML only
+
+## How it's organized
+
+```
+business_webpages/        Company communications and articles
+  Create HTML file with company update message.html
+  news article about Audi's luxury market strategy
+
+personal_webpages/        Individual interest pages
+  chef.html               Hot chocolate recipe with steps
+  Coldplay with band details
+  personal webpage with pet information
+
+structure/                HTML fundamentals and templates
+  article.html            Biography/article template
+  blueprint.html          Basic structure template
+  craiglist_ad.html       Ad listing template
+  family_tree.html        Hierarchical content layout
+  docs/                   Documentation examples
+    Brown_Bear_information.html
+    connecting_links.html
+    leading to each section.html
+
+workshops/                Interactive learning exercises
+  CatPhotoApp.html        Semantic HTML with images and lists
+  semanticHTML.html       Semantic markup patterns
+  video_display_iframe.html
+  interactive/            Media and form examples
+    MusicPlayers.html
+    VideoPlayer.html
+    bookshop_page.html
+    build-an-html-audio-and-video-player.html
+```
+
+**How it fits together:** This is a learning repository with no runtime. Each file is a standalone HTML page demonstrating specific concepts: the `structure/` directory teaches basic HTML patterns (articles, lists, links), `personal_webpages/` and `business_webpages/` show real-world content uses, and `workshops/` contains progressively structured examples including semantic HTML and media embeds. Files are meant to be opened directly in a browser to see the rendered output.
+
+## How to run it
+
+No build step required. Simply open any `.html` file in a web browser:
+```bash
+open structure/article.html
+# or in your browser: file:///path/to/repo/structure/article.html
+```
+
+All files render as standalone HTML documents with no dependencies or server required.
+
+## Try asking
+
+- What semantic HTML elements are used in the `workshops/CatPhotoApp.html` file?
+- How do the linking patterns in `structure/docs/connecting_links.html` organize navigation across pages?
+- What HTML5 media elements are demonstrated in the `workshops/interactive/` directory?
